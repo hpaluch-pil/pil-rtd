@@ -5,3 +5,5 @@
 # sphinx generated files
 /docs/build
 
+# generated locales
+*.mo

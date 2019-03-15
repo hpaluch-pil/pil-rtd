@@ -20,31 +20,31 @@ msgstr ""
 
 #: ../../source/index.rst:7
 msgid "Welcome to Pickering Interfaces Ltd on Read the Docs"
-msgstr ""
+msgstr "Vítejte na stránkach Pickering Interfaces s.r.o, od Read the Docs"
 
 #: ../../source/index.rst:14
 msgid "Important links"
-msgstr ""
+msgstr "Důležité odkazy"
 
 #: ../../source/index.rst:16
 msgid "`Pickering Product page`_ and `Contact Us`_"
-msgstr ""
+msgstr "`Stránka produktů Pickering`_ a `Kontaktujte nás`_"
 
 #: ../../source/index.rst:17
 msgid "Drivers:"
-msgstr ""
+msgstr "Ovladače:"
 
 #: ../../source/index.rst:19
 msgid "`PXI Drivers`_ (when chassis is directly connected to PC)"
-msgstr ""
+msgstr "`Ovladače PXI`_ (pokud je šasi připojeno přímo k PC)"
 
 #: ../../source/index.rst:20
 msgid "`LXI Drivers`_ (when cassis is connected using ethernet)"
-msgstr ""
+msgstr "`Ovladače LXI`_ (pokud je šasi připojeni na ethernet)"
 
 #: ../../source/index.rst:24
 msgid "Indices and tables"
-msgstr ""
+msgstr "Ostatní"
 
 #: ../../source/index.rst:26
 msgid ":ref:`genindex`"
