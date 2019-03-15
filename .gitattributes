@@ -1,0 +1,8 @@
+
+# files that should be always LF
+Makefile eol=lf
+
+# should be default
+*.png binary
+*.jpg binary
+

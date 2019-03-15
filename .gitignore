@@ -1,0 +1,7 @@
+# vim files
+*~
+*.swp
+
+# sphinx generated files
+/docs/build
+
