@@ -40,7 +40,7 @@ msgstr "`Ovladače PXI`_ (pokud je šasi připojeno přímo k PC)"
 
 #: ../../source/index.rst:20
 msgid "`LXI Drivers`_ (when cassis is connected using ethernet)"
-msgstr "`Ovladače LXI`_ (pokud je šasi připojeni na ethernet)"
+msgstr "`Ovladače LXI`_ (pokud je šasi připojeno na ethernet)"
 
 #: ../../source/index.rst:24
 msgid "Indices and tables"
