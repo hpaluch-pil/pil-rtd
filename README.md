@@ -18,12 +18,14 @@ TODO: ...
 Building English version:
 
 ```bash
+cd docs
 make html
 ```
 
 Buliding Czech version:
 
 ```cmd
+cd docs
 "%SPHINXBUILD%" -b html -D language=cs source build/html/cs
 ```
 
