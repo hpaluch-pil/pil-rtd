@@ -20,7 +20,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Pickering Interfaces Ltd on Read the Docs'
-copyright = '2019, Henryk Paluch of PIL'
+copyright = '2019, Pickering Interfaces Ltd'
 author = 'Henryk Paluch of PIL'
 
 # The full version, including alpha/beta/rc tags
