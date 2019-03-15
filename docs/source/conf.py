@@ -41,7 +41,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = ['*~','*.swp']
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -57,6 +57,8 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_logo =  '_static/images/pil-logo.png'
+
 
 # Changed in Sphinx 2.0, needed in 1.x on Debian
 # see: http://www.sphinx-doc.org/en/master/usage/configuration.html
@@ -65,4 +67,8 @@ master_doc = 'index'
 # render build time at the bottom of page
 # see: https://stackoverflow.com/a/51295617
 html_last_updated_fmt = '%b %d, %Y %H:%M:%S'
+
+# from: https://github.com/sphinx-gallery/sphinx-gallery/blob/master/doc/conf.py
+def setup(app):
+    app.add_stylesheet('theme_override.css')
 

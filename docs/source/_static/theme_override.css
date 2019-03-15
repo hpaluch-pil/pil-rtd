@@ -1,0 +1,11 @@
+/* theme_override.cssi - Custom colors in RTD theme.
+ * from: https://github.com/sphinx-gallery/sphinx-gallery/blob/master/doc/_static/theme_override.css
+ */
+
+.wy-nav-top {
+    background-color: #25408f !important;
+}
+.wy-side-nav-search {
+    background-color: #25408f !important;
+}
+
