@@ -1,6 +1,7 @@
 
 # files that should be always LF
 Makefile eol=lf
+*.po eol=lf
 
 # should be default
 *.png binary
